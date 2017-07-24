@@ -18,4 +18,4 @@ http://www.pygame.org/docs/
 
 http://www.pygame.org/docs/tut/MakeGames.html#makegames-1
 
-http://www.pygame.org/docs/tut/newbieguide.html
+http://www.pygame.org/docs/tut/ChimpLineByLine.html
